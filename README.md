@@ -18,7 +18,7 @@ MMM is the flagship project: a platform joining business operations with creativ
 - **Marketing Lab:** objectives, scheduling, permissions, approvals, results capture, learning notes, and reusable playbooks.
 - **Trelly Mo Universe:** a creative-production use case connecting music, visual identity, storytelling, and campaign planning. Unreleased art and story material are excluded.
 
-Authenticated Dashboard, Content Studio, and Marketing Lab views were inspected on November 1, 2026. Generation, uploads, publishing, and measured outcomes were not tested. Story Studio returned a server error on two attempts; it is not presented as a verified working module. No production records were edited.
+Authenticated Dashboard, Content Studio, and Marketing Lab views were inspected on November 1, 2026. Saved output was verified in “5 Reasons Great Songs Aren’t Sync-Ready”: 7 Firefly source visuals and 7 final Adobe Express exports are present in the saved campaign. Fresh generation, uploads, public publishing, and measured business outcomes were not rerun or tested. Story Studio’s landing page returned a server error; this current access issue is separate from the verified completed content-production work. No production records were edited.
 
 The private repository documents workspace permissions, tenant isolation, imports, projects, tasks, and collaboration. Its source and operational records remain private.
 
