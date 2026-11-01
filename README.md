@@ -28,6 +28,22 @@ The private repository documents workspace permissions, tenant isolation, import
 
 These are cropped screenshots of the real authenticated app, excluding private strategy, records, signed links, and unreleased artwork.
 
+## MMM Academy — educational products
+
+**Music Business 101** is a six-week course covering professional identity, business foundations, ownership and music organization, networking, opportunities, and career planning. Its Learn → Build → Reflect → Check structure combines instructional content, applied activities, reflections, and knowledge checks. Week 1 displays an 80% passing threshold. Six milestones build a Career Launch Portfolio and unlock an **MMM Academy Career Readiness Certificate**.
+
+**Sync-Ready Creator** contains ten lessons covering licensing, rights, production, session organization, alternate versions, stems, metadata, song-package readiness, and readiness scoring. The live Education Center reports ten published lessons with its overall course still labeled draft.
+
+Course pages, lesson content, progress, assessment controls, and the MMM-issued certificate were inspected. Fresh grading and issuance were not retested. These are education products created within MMM; no external accreditation is claimed.
+
+![Actual Music Business 101 lesson](assets/mmm-music101-lesson.jpg)
+
+![Actual MMM-issued certificate feature](assets/mmm-career-certificate.jpg)
+
+![Actual Sync-Ready Creator lesson](assets/mmm-sync-lesson.jpg)
+
+Screenshots exclude private reflections, student contact records, and quiz answers. The certificate example uses the founder’s saved profile to demonstrate the feature.
+
 ## SHOWTIME: Live Production Crisis
 
 A cooperative live-production troubleshooting game designed for 2–8 players. The public interface introduces department selection, clue sharing, and a four-minute production challenge.
