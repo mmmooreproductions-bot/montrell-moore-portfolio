@@ -28,7 +28,15 @@ A cooperative live-production troubleshooting game designed for 2–8 players. T
 
 ## SHOWFLOW
 
-An audiovisual workflow project identified in prior project history. A current build, repository, implementation details, and screenshots have not yet been verified for this showcase. No live demo is claimed.
+An AV production operations simulation built through Google AI Studio, using an explicitly fictional arena-event dataset. The interface connects show readiness across seven systems, department operations, Dante/video/DMX routing, incidents, and shift handoffs.
+
+[Explore the fictional demo](https://showflow-av-produc.ai.studio/)
+
+**Status checked November 1, 2026:** Command Center, Patch Matrix, and Handoff Revisions opened successfully. This portfolio review did not validate readiness correctness, AI advice, persistence, security claims, or real hardware integration. This is a simulation prototype, not a production-safety tool.
+
+![Actual SHOWFLOW Command Center — fictional dataset](assets/showflow-command.jpg)
+
+![Actual SHOWFLOW Patch Matrix — fictional dataset](assets/showflow-patch.jpg)
 
 ## About this repository
 
