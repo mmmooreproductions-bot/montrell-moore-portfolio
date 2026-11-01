@@ -20,11 +20,11 @@ The private repository documents workspace permissions, tenant isolation, contac
 
 A cooperative live-production troubleshooting game designed for 2–8 players. The public interface introduces department selection, clue sharing, and a four-minute production challenge.
 
-[View the public interface](https://showtime-live-production-crisis.montrell-moore.chatgpt.site/)
+[Play SHOWTIME](https://showtime-live-production-crisis.montrell-moore.chatgpt.site/)
 
-**Status checked November 1, 2026:** the welcome screen loads; solo practice returned a connection error and the associated Supabase backend is inactive. Do not treat this as a verified playable demo.
+**Status checked November 1, 2026:** backend connectivity, solo round startup, and a two-step confidence-monitor incident recovery verified. The incident displayed CLEARED and the score increased to 20. Multiplayer and full-round completion were not retested.
 
-![Actual SHOWTIME welcome screen](assets/showtime-welcome.jpg)
+![Actual SHOWTIME solo gameplay](assets/showtime-gameplay.jpg)
 
 ## SHOWFLOW
 
