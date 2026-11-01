@@ -12,9 +12,21 @@ An actively developed MVP for music education, creative services, relationship m
 
 **Technology:** Next.js, React, TypeScript, Supabase, PostgreSQL, Vercel.
 
-The private repository documents workspace permissions, tenant isolation, contact imports, projects, tasks, and collaboration. The deployed secure entry page was checked; authenticated modules were not retested for this portfolio. The application source and operational data are not included here.
+MMM is the flagship project: a platform joining business operations with creative production.
 
-![Actual MMM secure entry page](assets/mmm-login.jpg)
+- **Content Studio:** staged brief, copy, prompt, visual, template, and approval interface, plus campaign-specific Firefly/Adobe Express asset handoff controls.
+- **Marketing Lab:** objectives, scheduling, permissions, approvals, results capture, learning notes, and reusable playbooks.
+- **Trelly Mo Universe:** a creative-production use case connecting music, visual identity, storytelling, and campaign planning. Unreleased art and story material are excluded.
+
+Authenticated Dashboard, Content Studio, and Marketing Lab views were inspected on November 1, 2026. Generation, uploads, publishing, and measured outcomes were not tested. Story Studio returned a server error on two attempts; it is not presented as a verified working module. No production records were edited.
+
+The private repository documents workspace permissions, tenant isolation, imports, projects, tasks, and collaboration. Its source and operational records remain private.
+
+![Actual Content Studio workflow excerpt](assets/mmm-content-workflow.jpg)
+
+![Actual blank Marketing Lab campaign form excerpt](assets/mmm-marketing-form.jpg)
+
+These are cropped screenshots of the real authenticated app, excluding private strategy, records, signed links, and unreleased artwork.
 
 ## SHOWTIME: Live Production Crisis
 
