@@ -1,10 +1,18 @@
 # Montrell Moore — Selected Work
 
-**AI-assisted applications · Technical operations · Financial-services perspective · Audiovisual systems**
+**AI-assisted applications · Financial operations & risk controls · Live audiovisual production**
 
-A curated portfolio of independent application projects, with actual application screenshots and explicit verification limits.
+I am a financial-services operations professional and live-event technical lead who builds AI-assisted applications. This curated portfolio demonstrates workflow design, practical prototyping, documentation, and verification, using actual application captures and explicit testing limits.
 
 [View the portfolio](https://montrell-moore-portfolio.montrell-moore.chatgpt.site) · [GitHub profile](https://github.com/mmmooreproductions-bot)
+
+## Professional background informing these projects
+
+- **Financial operations and risk controls:** wealth-management service and control workflows, recurring review, risk-based sampling, documentation of findings, risk ratings, and corrective-action recommendations. These are operational and audit-preparation responsibilities—not claims of independently conducting regulatory examinations.
+- **Audiovisual production:** hands-on corporate event production including digital mixing, wireless microphone systems, signal routing, and troubleshooting as an Encore technical lead.
+- **AI-assisted product work:** workflow prototyping, evaluation, and documentation, with deliberate separation between a demo's intent and tested behavior.
+
+These are independent projects and do not imply employer endorsement.
 
 ## Make Media Music Platform
 
