@@ -58,7 +58,7 @@ A cooperative live-production troubleshooting game designed for 2–8 players. T
 
 [Play SHOWTIME](https://showtime-live-production-crisis.montrell-moore.chatgpt.site/)
 
-**Status checked November 1, 2026:** backend connectivity, solo round startup, and a two-step confidence-monitor incident recovery verified. The incident displayed CLEARED and the score increased to 20. Multiplayer and full-round completion were not retested.
+**Testing history:** Earlier development sessions tested solo and multiplayer configurations (1–4 players), including a completed four-player round across Audio, Video, Producer/TD, and Stage roles. That round cleared 3 of 5 incidents and produced a post-game debrief. A separate full-round run cleared 8 of 8 incidents. Eight-player role assignment was checked, but a full eight-person simultaneous round is not documented. **November 1, 2026 spot check:** backend connectivity, solo startup, and a two-step confidence-monitor recovery were verified; multiplayer was not rerun during that particular review. The creator subsequently confirmed that the public SHOWTIME demo works well.
 
 ![Actual SHOWTIME solo gameplay](assets/showtime-gameplay.jpg)
 
